@@ -1,0 +1,3 @@
+/home/wayflayer/developer/cpp/file_archiver/build/CMakeFiles/myapp.dir
+/home/wayflayer/developer/cpp/file_archiver/build/CMakeFiles/edit_cache.dir
+/home/wayflayer/developer/cpp/file_archiver/build/CMakeFiles/rebuild_cache.dir

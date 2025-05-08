@@ -61,4 +61,5 @@ Windows
 
 Linux
 Сборка через build.sh
-Готовый бинарник в папке build# Archiver
+Готовый бинарник в папке build
+

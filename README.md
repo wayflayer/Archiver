@@ -19,20 +19,14 @@
 2. Запуск программы
     ```cmd
    build.bat
-   
-
 ### Linux
 1. Установите зависимости
     ```cmd
     sudo apt-get install libboost-iostreams-dev libboost-system-dev libboost-filesystem-dev
-    
 2. Запуск 
     ```cmd
     chmod +x build.sh
     ./build.sh
-
-
-
 ### Использовование
 1. Архивирование
     ```cmd
